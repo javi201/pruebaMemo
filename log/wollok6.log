@@ -418,3 +418,5 @@
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed lanzador.memo on /home/javi/memotestCopa","timeElapsed":361809,"timestamp":"2024-11-16T23:59:16.815Z"}
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed lanzador.memo on /home/javi/memotestCopa","timeElapsed":37365,"timestamp":"2024-11-16T23:59:54.412Z"}
 {"exitCode":"SIGINT","level":"info","message":"👾 Game executed lanzador.memo on /home/javi/memotestCopa","timeElapsed":51591,"timestamp":"2024-11-17T00:00:46.225Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":102,"timestamp":"2024-11-17T00:39:36.776Z"}
+{"level":"info","message":"onRequest - WORKSPACE_URI:file:///home/javi/Nuevo/pruebaMemo","timestamp":"2024-11-17T00:39:36.781Z"}

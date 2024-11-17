@@ -8,7 +8,7 @@ object ganaste {
     // method position() = game.at(0, game.center().y())
     method position() = game.origin()
 
-    method image() = "win4.jpg"
+    method image() = "win5.jpg"
 }
 
 object config {
